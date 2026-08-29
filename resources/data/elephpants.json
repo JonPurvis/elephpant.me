@@ -703,6 +703,14 @@
             "sponsor": "Magento",
             "year": 2018,
             "image": "92-magento-adobe.jpg"
+        },
+        {
+            "id": 93,
+            "name": "SymfonyCasts",
+            "description": "SymfonyCasts",
+            "sponsor": "SymfonyCasts",
+            "year": 2020,
+            "image": "93-symfonycasts.jpg"
         }
     ]
 }
